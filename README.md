@@ -23,5 +23,6 @@ About Me<br><br>I am a Marie Skłodowska-Curie Doctoral Fellow in the CATALOOP N
 
 ---
 [![](https://komarev.com/ghpvc/?username=guruprakashMP&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=GuruprakashMP&style=flat-square&color=blue" alt="Profile views" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
