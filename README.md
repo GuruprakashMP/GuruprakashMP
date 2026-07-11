@@ -1,4 +1,4 @@
-# 💫 About Me :                                              
+# 💫 About Me :                                                 
 About Me<br><br>I am a Marie Skłodowska-Curie Doctoral Fellow in the CATALOOP Network at the Centre for Research in Biological Chemistry and Molecular Materials (CiQUS), University of Santiago de Compostela. I work under the supervision of Martín Fañanás-Mastral, focusing on the development of next-generation catalytic systems through data-driven approaches.<br><br>My research lies at the intersection of organic synthesis, asymmetric catalysis, and computational chemistry, with a particular emphasis on stereodivergent Cu/NHC-catalyzed borylative couplings. I aim to design efficient and selective methodologies for constructing complex molecular architectures such as enantioenriched skipped dienes. To achieve this, I integrate experimental chemistry with machine learning and computational modeling, enabling predictive and accelerated catalyst discovery.<br><br>
 
 
